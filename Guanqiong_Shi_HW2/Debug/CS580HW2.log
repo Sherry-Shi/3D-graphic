@@ -1,0 +1,70 @@
+﻿Build started 2014/9/19 7:33:18.
+     1>Project "E:\出国考试\usc\cs_books\3D graphics\Guanqiong_Shi_HW2\CS580HW2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\CS580HW2.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         F:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\CS580HW2.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp Application2.cpp CS580HW.cpp CS580HWDoc.cpp CS580HWView.cpp disp.cpp MainFrm.cpp rend.cpp
+         rend.cpp
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(199): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(202): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(203): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(218): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(221): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(222): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(241): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(244): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(245): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(260): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(263): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(264): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(287): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(290): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(291): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(309): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(312): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\rend.cpp(313): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         MainFrm.cpp
+         disp.cpp
+         CS580HWView.cpp
+         CS580HWDoc.cpp
+         CS580HW.cpp
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\cs580hw.cpp(58): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 f:\vs2013\vc\atlmfc\include\afxwin.h(5178) : see declaration of 'CWinApp::Enable3dControls'
+         Application2.cpp
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\application2.cpp(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\application2.cpp(99): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\application2.cpp(112): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\application2.cpp(118): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\application2.cpp(124): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\application2.cpp(130): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>e:\出国考试\usc\cs_books\3d graphics\guanqiong_shi_hw2\application2.cpp(66): warning C4101: 'i' : unreferenced local variable
+         Application.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /nologo /fo".\Debug\CS580HW.res" CS580HW.rc 
+       Link:
+         F:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\CS580HW2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:F:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:".\Debug\CS580HW2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\CS580HW2.lib" /MACHINE:X86 /SAFESEH .\Debug\CS580HW.res
+         .\Debug\Application.obj
+         .\Debug\Application2.obj
+         .\Debug\CS580HW.obj
+         .\Debug\CS580HWDoc.obj
+         .\Debug\CS580HWView.obj
+         .\Debug\disp.obj
+         .\Debug\MainFrm.obj
+         .\Debug\rend.obj
+         .\Debug\StdAfx.obj
+         LINK : .\Debug\CS580HW2.exe not found or not built by the last incremental link; performing full link
+     1>Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         CS580HW2.vcxproj -> E:\出国考试\usc\cs_books\3D graphics\Guanqiong_Shi_HW2\.\Debug\CS580HW2.exe
+     1>Done Building Project "E:\出国考试\usc\cs_books\3D graphics\Guanqiong_Shi_HW2\CS580HW2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.48
